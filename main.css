@@ -1,0 +1,35 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+    
+}
+body{
+    background-image: url("http://informationcommunicationtechnology.com/wp-content/uploads/2018/06/Blue-Gradient-Background-2662.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h2{
+    text-align: center;
+
+	top: 100px;
+	font-size: 50px;
+}
+#topintro{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    font-size: 30px;
+
+}
+.singlebox{
+    background-color: aliceblue;
+    width: 50%;
+    text-align: center;
+
+    
+    
+}
+.singlebox h3{
+    font-size: 30px;
+    padding: 10px;
+}
